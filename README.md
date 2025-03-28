@@ -3,7 +3,6 @@ Estimation of Sea Surface Temperature From Landsat-8 Measurements Via Neural Net
 
 # Reference
 
-About HiSea-II:
-- Lee, Z., Wang, D., Zheng, Z., Wang, L., Xu, P., Li, X., Qiao, H., Wu, X., Jian, C., Dai, M., Shang, S., & Bao, Y. (2024).  
-SmallSat for Monitoring Aquatic Ecosystem of Coastal and Inland Waters: The Experience of HiSea-II. IEEE Transactions on Geoscience and Remote Sensing, 62, 1-10
+Xie, J., Lee, Z., Li, X., Wang, D., Zhang, C., Wu, Y., Yu, X., & Zheng, Z. (2024).  
+Estimation of Sea Surface Temperature From Landsat-8 Measurements via Neural Networks. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 17, 16306-16315  
 https://doi.org/10.1109/JSTARS.2024.3453908
